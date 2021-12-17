@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\steph\\Desktop\\Largest Number\\Largest Number.csproj",
+      "projectUniqueName": "C:\\Users\\steph\\Desktop\\C# Projecten\\Largest-Number\\Largest Number.csproj",
       "projectName": "Largest Number",
-      "projectPath": "C:\\Users\\steph\\Desktop\\Largest Number\\Largest Number.csproj",
+      "projectPath": "C:\\Users\\steph\\Desktop\\C# Projecten\\Largest-Number\\Largest Number.csproj",
       "packagesPath": "C:\\Users\\steph\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\steph\\Desktop\\Largest Number\\obj\\",
+      "outputPath": "C:\\Users\\steph\\Desktop\\C# Projecten\\Largest-Number\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\steph\\AppData\\Roaming\\NuGet\\NuGet.Config"
